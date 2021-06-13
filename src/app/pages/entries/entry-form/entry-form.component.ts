@@ -83,6 +83,7 @@ export class EntryFormComponent implements OnInit, AfterContentChecked {
     )
   }
 
+
   submitForm() {
     this.submittingForm = true;
 
