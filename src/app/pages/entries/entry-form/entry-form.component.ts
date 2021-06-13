@@ -22,7 +22,15 @@ export class EntryFormComponent implements OnInit, AfterContentChecked {
   currentAction: string;
   entryForm: FormGroup;
   pageTitle: string;
-  serverErrorMessages: string[] = null;
+  serverErrorMessages:
+
+
+
+
+
+
+
+  string[] = null;
   submittingForm: boolean = false;
   entry: Entry = new Entry();
   categories: Array<Category>;
